@@ -5,4 +5,6 @@
 <head>
 <meta charset="UTF-8">
 <title>어쩌구 사이트2</title>
+<link rel="stylesheet" type="text/css" href="/css/main.css"/>
+<link rel="stylesheet" type="text/css" href="/css/option.css"/>
 </head>

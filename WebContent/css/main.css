@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/* 초기화 세팅 */
+body,button,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,input,legend,li,ol,p,select,table,td,textarea,th,ul{margin:0;padding:0}
+body,button,input,select,table,textarea{font-size:16px;font-family:Dotum,'돋움',Helvetica,"Apple SD Gothic Neo",sans-serif}
+button,input{border-radius:0}
+fieldset,img{border:0}
+ol,ul{list-style:none}
+address,em{font-style:normal}
+iframe{overflow:hidden;margin:0;padding:0;border:0}
+a {color: #fff; text-decoration: none; outline: none}
+a:hover, a:active {text-decoration: none; color:#fff; background-color:#f59000;}
+/* 초기화 세팅 끝 */
+
+
+body {margin: 0; padding: 0; background-color: #eeeeee;}
+
+header { background-color: #1e8bc3; padding: 2em; display: flex; justify-content: space-between; font-size: 18px; 
+font-weight: bold; color: #fff;}
